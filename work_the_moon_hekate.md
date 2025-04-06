@@ -13,7 +13,7 @@
 ---
 
 ## 用意するもの
-- Deviant Moon Tarot（ミニ版が望ましい）
+- Deviant Moon Tarot
 - The Moon のカード（儀式の中心）
 - 白いLEDキャンドル（ヘカテのトーチを象徴）
 - 静かな空間（できれば本棚神殿の前）
