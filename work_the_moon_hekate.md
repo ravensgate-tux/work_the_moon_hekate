@@ -17,7 +17,10 @@
 - The Moon のカード（儀式の中心）
 - 白いLEDキャンドル（ヘカテのトーチを象徴）
 - 静かな空間（できれば本棚神殿の前）
-- 参考画像：「deviant_moon_tarot_the_moon.jpg」
+
+## Image Reference
+
+<img src="./deviant_moon_tarot_the_moon.jpg" alt="The Moon - Deviant Moon Tarot" width="400">
 
 ---
 
@@ -73,8 +76,6 @@
 ## 備考
 - 公開用ではなく、完全に個人の訓練用です。
 - 儀式内容や文言は、あなたの体験に応じて自由に調整可能。
-
-画像参照：`deviant_moon_tarot_the_moon.jpg`（Deviant Moon Tarot: The Moon）
 
 ---
 
