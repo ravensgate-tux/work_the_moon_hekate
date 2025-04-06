@@ -12,6 +12,8 @@ This repository contains a personal, meditative rite designed to interface with 
 - 本儀式は **願望成就ではなく、意識の調律と内的明晰さの探求**を目的としています。
 - 詳細は [`work_the_moon_hekate.md`](./work_the_moon_hekate.md) を参照してください。
 - 参考画像：`deviant_moon_tarot_the_moon.jpg`
+  
+  ![The Moon - Deviant Moon Tarot](./deviant_moon_tarot_the_moon.jpg)
 
 ## Status
 
