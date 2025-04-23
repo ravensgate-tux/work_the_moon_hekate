@@ -19,5 +19,5 @@ This repository contains a personal, meditative rite designed to interface with 
 
 ## Status
 
-- This repository is intended for **private use**.
-- Do not distribute or publish without permission.
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
